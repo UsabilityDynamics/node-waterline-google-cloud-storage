@@ -2,4 +2,4 @@
  * Basic Example
  *
  */
-var lib = require( '../' );
+var lib = require( '.' );

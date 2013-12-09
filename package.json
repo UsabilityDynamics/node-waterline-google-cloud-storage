@@ -28,7 +28,8 @@
     "advanced-require": "git+ssh://git@github.com:UsabilityDynamics/node-advanced-require#master",
     "object-settings": "git+ssh://git@github.com:UsabilityDynamics/node-object-settings#master",
     "object-emitter": "git+ssh://git@github.com:UsabilityDynamics/node-object-emitter#master",
-    "object-validation": "git+ssh://git@github.com:UsabilityDynamics/node-object-validation#master"
+    "object-validation": "git+ssh://git@github.com:UsabilityDynamics/node-object-validation#master",
+    "googleapis": "git://github.com/UsabilityDynamics/node-googleapis"
   },
   "devDependencies": {
     "grunt-contrib-symlink": "~0.2.0",
